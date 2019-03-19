@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animated Bottom Tab</string>
+    <string name="default_color">Default Color</string>
+    <string name="green_color">Green Color</string>
+    <string name="colorful">Colorful</string>
+    <string name="multiple_icons">Multiple Icons</string>
+</resources>

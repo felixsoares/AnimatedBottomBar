@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MenuActivity">
+
+    <Button
+            android:id="@+id/btnDefault"
+            android:text="@string/default_color"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"/>
+
+    <Button
+            android:id="@+id/btnGreen"
+            android:text="@string/green_color"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"/>
+
+    <Button
+            android:id="@+id/btnColorful"
+            android:text="@string/colorful"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"/>
+
+    <Button
+            android:id="@+id/btnMultIcons"
+            android:text="@string/multiple_icons"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"/>
+
+</LinearLayout>

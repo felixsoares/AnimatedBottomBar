@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomBar">
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="bg_color" format="color"/>
+        <attr name="bg_icon_color" format="color"/>
+        <attr name="tint_icon_color" format="color"/>
+        <attr name="indicator_color" format="color"/>
+    </declare-styleable>
+</resources>
