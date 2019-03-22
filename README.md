@@ -3,6 +3,7 @@
 
 # AnimatedBottomBar
 
+Please, have a test in google play [clicking here](https://play.google.com/store/apps/details?id=com.felixsoares.animatedbottomtab).
 
 ![](https://img.shields.io/badge/SDK-19+-success.svg) ![](https://img.shields.io/badge/Android%20Arsenal-Animated%20Bottom%20Bar-orange.svg) ![](https://img.shields.io/badge/Version-1.0-blue.svg)
 
@@ -25,7 +26,7 @@ Add the dependency in build.gradle (App module)
 
 ```gradle
 dependencies {
-	implementation 'com.github.felixsoares:AnimatedBottomBar:1.0'
+	implementation 'com.github.felixsoares:AnimatedBottomBar:1.1'
 }
 ```
 ## Usage example
