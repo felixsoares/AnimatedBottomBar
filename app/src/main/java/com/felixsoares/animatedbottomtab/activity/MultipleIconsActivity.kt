@@ -13,7 +13,7 @@ class MultipleIconsActivity : BaseActivity(), NavigationListner {
         pushFragment(0)
 
         bottom
-            .setupListner(this)
+            .setupListener(this)
             .addItem(Item(R.drawable.ic_home, R.drawable.ic_home))
             .addItem(Item(R.drawable.ic_search, R.drawable.ic_search))
             .addItem(Item(R.drawable.ic_notifications_gray, R.drawable.ic_notifications))

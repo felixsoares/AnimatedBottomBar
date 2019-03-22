@@ -13,7 +13,7 @@ class ColorfulActivity : BaseActivity(), NavigationListner {
         pushFragment(0)
 
         bottom
-            .setupListner(this)
+            .setupListener(this)
             .addItem(Item("Search", R.drawable.ic_search))
             .addItem(Item("Safe", R.drawable.shield))
             .addItem(Item("Music", R.drawable.ic_music))

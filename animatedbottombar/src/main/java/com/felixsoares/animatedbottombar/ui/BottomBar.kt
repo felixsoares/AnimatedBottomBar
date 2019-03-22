@@ -13,7 +13,7 @@ import com.transitionseverywhere.TransitionManager
 
 class BottomBar : LinearLayout {
 
-    private var mListner: NavigationListner? = null
+    private var mListener: NavigationListner? = null
     private var mItens = mutableListOf<Item>()
 
     private var textColor = 0
@@ -76,8 +76,8 @@ class BottomBar : LinearLayout {
         this.orientation = VERTICAL
     }
 
-    fun setupListner(listner: NavigationListner): BottomBar {
-        this.mListner = listner
+    fun setupListener(listener: NavigationListner): BottomBar {
+        this.mListener = listener
         return this
     }
 
@@ -173,7 +173,7 @@ class BottomBar : LinearLayout {
             moveIndicator(position, mItens.size)
             closeAll()
             navi.show()
-            mListner?.OnClick(position)
+            mListener?.OnClick(position)
         }
 
         if (position == 0) {

@@ -13,7 +13,7 @@ class DefaultActivity : BaseActivity(), NavigationListner {
         pushFragment(0)
 
         bottom
-            .setupListner(this)
+            .setupListener(this)
             .addItem(Item("Home", R.drawable.ic_home))
             .addItem(Item("Search", R.drawable.ic_search))
             .addItem(Item("Profile", R.drawable.ic_person))

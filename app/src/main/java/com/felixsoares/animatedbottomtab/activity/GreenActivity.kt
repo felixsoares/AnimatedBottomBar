@@ -13,7 +13,7 @@ class GreenActivity : BaseActivity(), NavigationListner {
         pushFragment(0)
 
         bottom
-            .setupListner(this)
+            .setupListener(this)
             .addItem(Item("Home", R.drawable.ic_home))
             .addItem(Item("Search", R.drawable.ic_search))
             .addItem(Item("Safe", R.drawable.shield))
