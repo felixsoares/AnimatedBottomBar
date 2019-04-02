@@ -5,7 +5,7 @@
 
 Please, have a test in google play [clicking here](https://play.google.com/store/apps/details?id=com.felixsoares.animatedbottomtab).
 
-![](https://img.shields.io/badge/SDK-19+-success.svg) ![](https://img.shields.io/badge/Android%20Arsenal-Animated%20Bottom%20Bar-orange.svg) ![](https://img.shields.io/badge/Version-1.0-blue.svg)
+![](https://img.shields.io/badge/SDK-19+-success.svg) ![](https://img.shields.io/badge/Android%20Arsenal-Animated%20Bottom%20Bar-orange.svg) ![](https://img.shields.io/badge/Version-1.1-blue.svg) [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-AnimatedBottomBar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7604 )
 
 ![](https://media.giphy.com/media/3Wv7KC3EK813AginQK/giphy.gif)
 
